@@ -1,0 +1,4 @@
+interface:
+  display_name: "从二到三"
+  short_description: "把二选一的卡点转为长期判断、反馈和可验证行动的系统框架"
+  default_prompt: "使用 $from-two-to-three 帮我重新理解这个二选一难题。"
